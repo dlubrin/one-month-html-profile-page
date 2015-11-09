@@ -1,0 +1,40 @@
+body {
+  line-height: 1.5;
+  
+  color: #ecf0f1;
+  
+  background: url('../images/bbq-ribs.jpg');
+
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(211, 84, 0,0.7);
+  padding: 20px;
+  margin: 30px;
+  max-width: 550px;
+  width: 100%;
+  border-radius: 30px;
+}
+
+h1 {
+  font-family: 'Rouge Script', cursive;
+  font-size: 3em;
+  margin-bottom: -0.3em;
+}
+
+h2 {
+  font-family: 'Arimo', sans-serif;
+  font-size: 1.2em;
+}
+
+.center-align {
+  text-align: center;
+  margin-bottom: 20px;
+}
